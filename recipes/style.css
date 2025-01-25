@@ -1,3 +1,12 @@
 h1 {
-    font-size: px;
+    font-size: 40px;
+    color: blue;
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+ul {
+    color: rgb(187, 106, 106);
+    font-size: 34px;
+}
+

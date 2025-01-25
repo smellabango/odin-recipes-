@@ -1,3 +1,11 @@
 h1 {
-    color: aquamarine;
+    color: rgb(150, 127, 255);
+    font-size: 70px;
+}
+
+ul {
+    font-size: 45px;
+    background-color: beige;
+    font-weight: 900;
+    
 }
